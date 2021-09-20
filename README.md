@@ -1,6 +1,4 @@
-I love coding. I am student in Ista
-
-⚡ Fun fact:
+I love coding. I am student in Morocco
 
 - 👋 Hi, I’m @Said-Makhloufi
 - 👀 I’m interested in Informatik
