@@ -1,4 +1,4 @@
-I love coding. I am student in Morocco
+I love coding. I am student in Germany
 
 - 👋 Hi, I’m @Said-Makhloufi
 - 👀 I’m interested in Informatik
