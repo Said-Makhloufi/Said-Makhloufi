@@ -1,7 +1,7 @@
 I love coding. 
 - 👋 Hi, I’m @Said-Makhloufi
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning JAVA, PHP, Shopware 5, Shopware 6
 - 📫 How to reach me --> per Gmail --> Said.Makhloufi10@gmail.com <--
 - 🎵 I love to hear country music.
 
