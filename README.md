@@ -1,8 +1,7 @@
-I love coding. I am student in Germany
-
+I love coding. 
 - 👋 Hi, I’m @Said-Makhloufi
-- 👀 I’m interested in Informatik
-- 🌱 I’m currently learning Java und WordPess 
+- 👀 I’m interested in IT
+- 🌱 I’m currently learning Java
 - 📫 How to reach me --> per Gmail --> Said.Makhloufi10@gmail.com <--
 - 🎵 I love to hear country music.
 
